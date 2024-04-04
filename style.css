@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body{
+  font-family: lobster;
+  text-align: center;
+  background: black;
+  color: #808099;
+}
+
+.items
+{text-align: left;
+font-style: italic;
+}
+
+.principal
+{background:#152033;
+  padding:30p}
+
+.beneficios
+{background:#2b1016}
+
+ul
+{display:inline-block;
+  vertical-align:top;
+  width:20%;
+  margin-right:15%;
+  padding:20px}
+
+.titulo-principal
+{text-align: left;
+  padding-left: 20px}
+
+.imagembeneficios
+{width:50%}
