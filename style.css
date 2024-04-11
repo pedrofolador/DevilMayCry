@@ -1,4 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+:root{
+    --branco-principal:#FFFFFF;
+    --cinza-secundario:#C0C0C0;
+    --botao-azul:#167BF7;
+    --cor-de-fundo:#00030C; 
+
+}
+
 body{
   font-family: lobster;
   text-align: center;
@@ -61,11 +69,6 @@ ul{
 
 .lista_link a:active{
     color: purple; 
-}
-
-.container_botao:hover{
-    background-color: #3c92fa;
-    color: var(--cor-de-fundo);
 }
 
 .rodape_texto{
