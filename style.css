@@ -63,6 +63,11 @@ ul{
     color: purple; 
 }
 
+.container_botao:hover{
+    background-color: #3c92fa;
+    color: var(--cor-de-fundo);
+}
+
 .rodape_texto{
     margin: 1em 0;
     color: var(--cinza-secundario);
