@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 :root{
-    --branco-principal:#FFFFFF;
-    --cinza-secundario:#C0C0C0;
-    --botao-azul:#167BF7;
-    --cor-de-fundo:#00030C; 
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C; 
 
 }
 
@@ -20,20 +20,20 @@ body{
 }
 
 .principal{
-    background:#2b1016;
+    background: #2b1016;
     padding:30p;
 }
 
 .beneficios{
-    background:#000000;
+    background: #000000;
 }
 
 ul{
     display:inline-block;
     vertical-align:top;
-    width:20%;
-    margin-right:15%;
-    padding:20px;
+    width: 20%;
+    margin-right: 15%;
+    padding: 20px;
 }
 
 .titulo-principal{
@@ -42,12 +42,16 @@ ul{
 }
 
 .imagembeneficios{
-    width:15%;
+    width: 15%;
 }
 
 .rodape{
     text-align: center;
     margin: 5em 3em;
+}
+
+.rodape_logo{
+    width: 10%;
 }
 
 .rodape_lista {
