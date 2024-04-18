@@ -67,14 +67,6 @@ ul{
     margin-left: 1em;
 }
 
-.lista_link a:hover{
-    color: var(--botao-azul);
-}
-
-.lista_link a:active{
-    color: purple; 
-}
-
 .rodape_texto{
     margin: 1em 0;
     color: var(--cinza-secundario);
