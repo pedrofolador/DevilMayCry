@@ -49,6 +49,11 @@ ul{
     width: 10%;
 }
 
+.rightitems{
+    text-align: right;
+    font-style: italic;
+}
+
 .rodape{
     text-align: center;
     margin: 5em 3em;
