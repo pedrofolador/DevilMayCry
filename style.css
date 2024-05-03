@@ -57,7 +57,7 @@ ul{
 .leftitems{
     text-align: right;
     font-style: italic;
-    right: 199px;
+    margin-left: 25px;
 }
 
 .rodape{
